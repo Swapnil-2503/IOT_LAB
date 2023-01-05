@@ -13,9 +13,9 @@ cd Adafruit_Python_DHT
 sudo python setup.py install
 pip install requests
 
-*******\\
+<ul>
 
-Create a ThingSpeak account and get your API key. Go to https://thingspeak.com and sign up for an account. Once you have an account, create a new channel and note down the Write API Key. You will need this key to send data to your channel.
+Create a ThingSpeak account and get your API key. Go to https://thingspeak.com and sign up for an account. Once you have an account, create a new channel and note down the Write API Key. You will need this key to send data to your channel.</ul>
 
 Write a script to read data from the sensor and send it to ThingSpeak. Here is an example of a Python script that does this:
 
