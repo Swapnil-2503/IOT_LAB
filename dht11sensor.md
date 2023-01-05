@@ -4,7 +4,7 @@ Connect the DHT11 sensor to the RPi. The DHT11 has four pins: VCC, GND, DATA, an
 
 Install the necessary libraries. You will need to install the Adafruit_DHT library and the requests library. You can do this by running the following commands on the terminal:
 
-*******\\
+<h1>on command</h1>
 
 sudo apt-get update
 sudo apt-get install build-essential python-dev python-openssl
