@@ -8,7 +8,7 @@ This repository contains the source code for my IoT lab projects.
 
 ## Technologies Used
 
-- [python](https://python.com/)
+- [python](https://python.org/)
 
 ## Getting Started
 
