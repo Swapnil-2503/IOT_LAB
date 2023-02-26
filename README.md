@@ -20,5 +20,5 @@ If you would like to contribute to this repository, please open a pull request a
 
 ## Credits
 
-- [Adafruit_dht](https://library1.com/)
+- [Adafruit_DHT](https://learn.adafruit.com/)
 
