@@ -20,7 +20,5 @@ If you would like to contribute to this repository, please open a pull request a
 
 ## Credits
 
-- [Library 1](https://library1.com/)
-- [Library 2](https://library2.com/)
-- [Library 3](https://library3.com/)
+- [Adafruit_dht](https://library1.com/)
 
