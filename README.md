@@ -4,15 +4,11 @@ This repository contains the source code for my IoT lab projects.
 
 ## Projects
 
-- Project 1: [Project Name](project1/)
-- Project 2: [Project Name](project2/)
-- Project 3: [Project Name](project3/)
+- Project 3: [Project Name](dht11sensor/)
 
 ## Technologies Used
 
-- [Technology 1](https://technology1.com/)
-- [Technology 2](https://technology2.com/)
-- [Technology 3](https://technology3.com/)
+- [python](https://python.com/)
 
 ## Getting Started
 
